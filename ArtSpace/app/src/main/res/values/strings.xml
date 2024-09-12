@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="apple_tree_title">Apple Tree</string>
+    <string name="apple_tree_description">An apple tree on a meadow during the afternoon</string>
+    <string name="apple_tree_artist">Gnush</string>
+    <string name="apple_tree_year">2024</string>
+    <string name="beach_sunset_title">Beach Sunset</string>
+    <string name="beach_sunset_description">Viewing a sunset from the beachfront</string>
+    <string name="beach_sunset_artist">Gnush</string>
+    <string name="beach_sunset_year">2024</string>
+    <string name="empty_road_title">Empty Road</string>
+    <string name="empty_road_description">Viewing an empty road from above</string>
+    <string name="empty_road_artist">Gnush</string>
+    <string name="empty_road_year">2024</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
