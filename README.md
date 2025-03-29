@@ -11,4 +11,4 @@
 3. Build beautiful apps       [_]
 
 #### Next
-Unit3: Build beatiful apps -> Practice: Superheroes
+Unit3: Build beatiful apps -> Practice: 30 days
