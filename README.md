@@ -8,4 +8,7 @@
 ### Unit 3: Display lists and use Material Design 
 1. More Kotlin fundamentals   [✓]
 2. Build a scrollable list    [✓]
-3. Build beautiful apps       []
+3. Build beautiful apps       [_]
+
+#### Next
+Unit3: Build beatiful apps -> Simple animation with Jetpack Compose
