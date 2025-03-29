@@ -11,4 +11,4 @@
 3. Build beautiful apps       [_]
 
 #### Next
-Unit3: Build beatiful apps -> Simple animation with Jetpack Compose
+Unit3: Build beatiful apps -> Practice: Superheroes
