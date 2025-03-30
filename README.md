@@ -8,7 +8,12 @@
 ### Unit 3: Display lists and use Material Design 
 1. More Kotlin fundamentals   [✓]
 2. Build a scrollable list    [✓]
-3. Build beautiful apps       [_]
+3. Build beautiful apps       [✓]
+
+### Unit 4: Navigation and app architecture
+1. Architecture Components
+2. Navigation in Jetpack Compose
+3. Adapt for different screen sizes
 
 #### Next
-Unit3: Build beatiful apps -> Practice: 30 days
+Unit4

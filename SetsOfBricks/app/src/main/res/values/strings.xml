@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SetsOfBricks</string>
+    <string name="set_origin">Set Origin:</string>
+    <string name="set_size">Set Size:</string>
+
+    <string name="starfleet_icon_description">Emblem of the United Federation of Planets</string>
+    <string name="romulan_icon_description">Emblem of the Romulan Star Empire</string>
+    <string name="klingon_icon_description">Emblem of the Klingon Empire</string>
+
+    <string name="expand_more_button_content_description">See more information about a bricks set.</string>
+    <string name="expand_less_button_content_description">See less information about a bricks set.</string>
+
+    <string name="bricks_set_01_name">U.S.S. Enterprise</string>
+    <string name="bricks_set_01_appearance">Star Trek</string>
+    <string name="bricks_set_01_model_description">NCC-1701</string>
+    <string name="bricks_set_01_model_size">Small</string>
+
+    <string name="bricks_set_02_name">U.S.S. Enterprise</string>
+    <string name="bricks_set_02_appearance">Star Trek</string>
+    <string name="bricks_set_02_model_description">NCC-1701</string>
+    <string name="bricks_set_02_model_size">Medium</string>
+
+    <string name="bricks_set_03_name">U.S.S. Enterprise</string>
+    <string name="bricks_set_03_appearance">Enterprise</string>
+    <string name="bricks_set_03_model_description">NX-01</string>
+    <string name="bricks_set_03_model_size">Medium</string>
+
+    <string name="bricks_set_04_name">NX01 Shuttlepod</string>
+    <string name="bricks_set_04_appearance">Enterprise</string>
+    <string name="bricks_set_04_model_description">Pod 1</string>
+    <string name="bricks_set_04_model_size">Medium</string>
+
+    <string name="bricks_set_05_name">Danube Class Runabout</string>
+    <string name="bricks_set_05_appearance">Deep Space Nine</string>
+    <string name="bricks_set_05_model_description">NCC-72452</string>
+    <string name="bricks_set_05_model_size">Medium</string>
+
+    <string name="bricks_set_06_name">U.S.S. Defiant</string>
+    <string name="bricks_set_06_appearance">Deep Space Nine</string>
+    <string name="bricks_set_06_model_description">NX-74205</string>
+    <string name="bricks_set_06_model_size">Small</string>
+
+    <string name="bricks_set_07_name">Deep Space 9</string>
+    <string name="bricks_set_07_appearance">Deep Space Nine</string>
+    <string name="bricks_set_07_model_description">Formerly \'Terok Nor\'</string>
+    <string name="bricks_set_07_model_size">Small</string>
+
+    <string name="bricks_set_08_name">Quark</string>
+    <string name="bricks_set_08_appearance">Deep Space Nine</string>
+    <string name="bricks_set_08_model_description">Ferengi</string>
+    <string name="bricks_set_08_model_size">Figure</string>
+
+    <string name="bricks_set_09_name">Kirk</string>
+    <string name="bricks_set_09_appearance">Star Trek</string>
+    <string name="bricks_set_09_model_description">Human</string>
+    <string name="bricks_set_09_model_size">Figure</string>
+
+    <string name="bricks_set_10_name">Spock</string>
+    <string name="bricks_set_10_appearance">Star Trek</string>
+    <string name="bricks_set_10_model_description">Vulcan</string>
+    <string name="bricks_set_10_model_size">Figure</string>
+
+    <string name="bricks_set_11_name">U.S.S. Enterprise</string>
+    <string name="bricks_set_11_appearance">First Contact</string>
+    <string name="bricks_set_11_model_description">NCC-1701-E</string>
+    <string name="bricks_set_11_model_size">Small</string>
+
+    <string name="bricks_set_12_name">Picard</string>
+    <string name="bricks_set_12_appearance">The Next Generation</string>
+    <string name="bricks_set_12_model_description">Human</string>
+    <string name="bricks_set_12_model_size">Figure</string>
+
+    <string name="bricks_set_13_name">D\'deridex Warbird</string>
+    <string name="bricks_set_13_appearance">The Next Generation</string>
+    <string name="bricks_set_13_model_description">Romulan</string>
+    <string name="bricks_set_13_model_size">Medium</string>
+
+    <string name="bricks_set_14_name">Vor\'cha Class</string>
+    <string name="bricks_set_14_appearance">The Next Generation</string>
+    <string name="bricks_set_14_model_description">Klingon</string>
+    <string name="bricks_set_14_model_size">Small</string>
+</resources>
