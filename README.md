@@ -19,5 +19,5 @@
 
 ### Unit 6: Data persistence
 1. Introduction to SQL                             [✓]
-2. Use Room for data persistence                   []
+2. Use Room for data persistence                   [✓]
 3. Store and access data using keys with DataStore []
