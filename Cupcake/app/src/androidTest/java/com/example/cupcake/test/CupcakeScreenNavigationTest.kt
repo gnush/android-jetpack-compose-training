@@ -54,6 +54,8 @@ class CupcakeScreenNavigationTest {
     @Test
     fun cupcakeNavHost_clickNextOnFlavorScreen_navigatesToPickupScreen() {
         navigateToFlavorScreen()
+        composeTestRule.onNodeWithStringId(R.string.chocolate)
+            .performClick()
         composeTestRule.onNodeWithStringId(R.string.next)
             .performClick()
         navController.assertCurrentRouteName(CupcakeScreen.Pickup.name)
